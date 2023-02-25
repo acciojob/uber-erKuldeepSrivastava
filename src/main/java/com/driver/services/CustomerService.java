@@ -10,6 +10,7 @@ import com.driver.model.TripBooking;
 
 public interface CustomerService {
 
+
 	public void register(Customer customer);
 
 	public void deleteCustomer(Integer customerId);
